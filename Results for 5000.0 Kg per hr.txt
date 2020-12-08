@@ -1,0 +1,95 @@
+                          DESIGN PARAMETERS OF INTEGRATED PALM OIL PROCESSING MACHINE AT 5000.0 KILOGRAM PER HOUR CAPACITY 
+                          
+                                                             PARAMETERS FOR DIGESTER UNIT                                                             
+
+Number Of Batches For The Digestion Operation Per Hour Is                                               20.0Batch/Hr
+Maximum Mass Capacity Of The Digester Barrel, In Kg/Batch Is                                            250.0Kg/Batch
+Standard Inner Diameter Of Digester Membrane Is                                                         0.125M
+Standard Outer Diameter Of Digester Membrane Is                                                         0.1683M
+Standard Inner Diameter Of Digester Barrel Is                                                           0.4M
+Pitch Of The Digester Beaters Is                                                                        0.4M
+Length Of Digester Discharge Opening Is                                                                 0.1294M
+Width Of Digester Discharge Opening Is                                                                  0.1294M
+Length Of Digester Beaters Is                                                                           0.1128M
+Length Of Digester And Cake Breaker Membrane Is                                                         1.7492M
+Number Of Digester Beaters Is                                                                           30.611
+Standard Diameter Of Digester Beaters Is                                                                0.028M
+Length Of Lhs Extension Of Digester Shaft Is                                                            0.237M
+Length Of Rhs Extension Of Digester Shaft Is                                                            0.237M
+Length Of Digester Shaft Is                                                                             2.274M
+Diameter Of The Digester Shaft Based On Shear Stress Is                                                 119.936Mm
+Diameter Of The Digester Shaft Based On Bending Stress Is                                               98.6089Mm
+
+                                                            PARAMETERS FOR SEPERATOR UNIT                                                             
+
+Length Of Auger Membrane Is                                                                             1.6M
+Length Of The Separator Pulp Discharge Chute Is                                                         1.52M
+Standard Outer Diameter Of Auger Membrane Is                                                            0.273M
+Standard Internal Diameter Of Auger Membrane Is                                                         0.25M
+Pitch Of Helix On The Auger Membrane Is                                                                 0.273M
+Flow Velocity Of Palm Nuts Towards Its Discharge Opening Is                                             0.9919M/S
+External Diameter Of Cake Breaker Membrane Is                                                           0.1683Mm
+Length Of The Cake Breaker Beaters Is                                                                   0.2317M
+Number Of Cake Breaker Beaters Is                                                                       30.611
+Diameter Of Cake Breaker Beaters Is                                                                     0.028M
+Inner Diameter Of Cake Breaker Membrane Is                                                              0.125Mm
+Effective Length Of The Separator Chamber Top Is                                                        0.6617M
+Effective Length Of The Separator Chamber Base Is                                                       0.303M
+Height Of Digester Discharge Chute Is                                                                   0.1294M
+Distance Of Discharge Chute Of The Digester Is                                                          1.67M
+Diameter Of The Cake Breaker Shaft Based On Shear Stress Is                                             72.1664Mm
+Diameter Of The Cake Breaker Shaft Based On Bending Stress Is                                           72.1651Mm
+Number Helix On The Auger Conveyor Membrane Is                                                          1.7777
+Diameter Of The Auger Shaft Based On Shear Stress Is                                                    33.7994Mm
+Diameter Of The Auger Shaft Based On Bending Stress Is                                                  33.7856Mm
+
+                                                           PARAMETERS FOR SCREW PRESS UNIT                                                            
+
+Internal Diameter Of Screw Press Barrel Is                                                              0.4M
+Screw Pitch Is                                                                                          0.4M
+Depth Of The Screw Flight Is                                                                            0.1104M
+Diameter Of The Screw Shaft Is                                                                          0.1792M
+Mean Thread Diameter Is                                                                                 0.2896M
+Length Of The Barrel Is                                                                                 0.45M
+Number Of Screw Turns Is                                                                                1.125
+Helix Angle Of The Screw Is                                                                             17.6568Degrees
+Screw Channel Width Is                                                                                  0.3812M
+Flight Land Width Is                                                                                    0.018M
+Diameter Of Screw Press Shaft Is                                                                        24.2166Mm
+
+                                                           PARAMETERS OF THE PULLEY SYSTEM                                                            
+
+Diameter Of The Pulley On The Digester Speed Reducer Is                                                 0.2601M
+Diameter Of The Digester Driving Pulley Is                                                              0.176M
+Diameter Of The Cake Breaker Pulley Is                                                                  0.176M
+Diameter Of Auger Auger Driven Pulley Is                                                                0.088M
+Diameter Of Screw Press Speed Reducer Pulley Is                                                         0.088M
+Diameter Of Screw Press Pulley (If Speed Reducer Is Not Used) Is                                        0.528M
+
+                                                            PARAMETERS OF THE DRIVE SYSTEM                                                            
+
+Minimum Center Distance Between Electric Motor And Digester Shafts Is                                   0.3426M
+Minimum Center Distance Between Digester And Cake Breaker Shafts Is                                     0.6M
+Minimum Center Distance Between Cake Breaker And Auger Shafts Is                                        0.4824M
+Minimum Center Distance Between Auger And Screw Press Shafts Is                                         1.3856M
+Pitch Length Of Electric Motor/Digester Speed Reducer Drive Belt Is                                     1453M
+Pitch Length Of The Digester/Cake Breaker Drive Belt Is                                                 932M
+Pitch Length Of The Cake Breaker/Auger Drive Belt Is                                                    932M
+Pitch Length Of The Auger/Screw Press Drive Belt Is                                                     932M
+Actual Number Of Belts For The Electric Motor/Speed Reducer Drive Is                                    3
+Actual Number Of Belts For The Digester/Cake Breaker Drive Is                                           4
+Actual Number Of Belts For The Cake Breaker/Auger Drive Is                                              11
+Actual Number Of Belts For The Auger/Speed Reducer Drive Is                                             13
+Belt Type For Electric Motor/Digester Drive Is                                                          C
+Belt Type For Digester/Cakebreaker Drive Is                                                             B
+Belt Type For Auger/Speed Reducer Drive Is                                                              B
+Belt Type For Cake Breaker/Auger Drive Is                                                               B
+Belt Type For Cake Auger/Screw Press Drive Is                                                           B
+
+                                                           POWER REQUIREMENT OF THE MACHINE                                                           
+
+Capacity Of The Speed Reducer Required For The Digester Unit Is                                         216.4991Hp
+Capacity Of The Speed Reducer Required For The Screw Press Is                                           50.0079Hp
+Total Power Required To Drive The Integrated Machine Is                                                 61248.8942W
+Capacity Of The Required Electric Motor (Accounting For 10%Loss) Is                                     67373.7837W
+Capacity Of The Required Electric Motor, In Horse Power Is                                              90.3134Hp
